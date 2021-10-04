@@ -1,0 +1,14 @@
+C:\Users\killa\source\repos\pig latin translator\pig latin translator\bin\Debug\netcoreapp3.1\pig latin translator.exe
+C:\Users\killa\source\repos\pig latin translator\pig latin translator\bin\Debug\netcoreapp3.1\pig latin translator.deps.json
+C:\Users\killa\source\repos\pig latin translator\pig latin translator\bin\Debug\netcoreapp3.1\pig latin translator.runtimeconfig.json
+C:\Users\killa\source\repos\pig latin translator\pig latin translator\bin\Debug\netcoreapp3.1\pig latin translator.runtimeconfig.dev.json
+C:\Users\killa\source\repos\pig latin translator\pig latin translator\bin\Debug\netcoreapp3.1\pig latin translator.dll
+C:\Users\killa\source\repos\pig latin translator\pig latin translator\bin\Debug\netcoreapp3.1\pig latin translator.pdb
+C:\Users\killa\source\repos\pig latin translator\pig latin translator\obj\Debug\netcoreapp3.1\pig latin translator.csproj.AssemblyReference.cache
+C:\Users\killa\source\repos\pig latin translator\pig latin translator\obj\Debug\netcoreapp3.1\pig latin translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\killa\source\repos\pig latin translator\pig latin translator\obj\Debug\netcoreapp3.1\pig latin translator.AssemblyInfoInputs.cache
+C:\Users\killa\source\repos\pig latin translator\pig latin translator\obj\Debug\netcoreapp3.1\pig latin translator.AssemblyInfo.cs
+C:\Users\killa\source\repos\pig latin translator\pig latin translator\obj\Debug\netcoreapp3.1\pig latin translator.csproj.CoreCompileInputs.cache
+C:\Users\killa\source\repos\pig latin translator\pig latin translator\obj\Debug\netcoreapp3.1\pig latin translator.dll
+C:\Users\killa\source\repos\pig latin translator\pig latin translator\obj\Debug\netcoreapp3.1\pig latin translator.pdb
+C:\Users\killa\source\repos\pig latin translator\pig latin translator\obj\Debug\netcoreapp3.1\pig latin translator.genruntimeconfig.cache
